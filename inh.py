@@ -77,3 +77,4 @@ r=Result(250, 50, 30, "Python", 900, 20, "A++")
 r.Information()
 r.Data()
 r.final()"""
+
